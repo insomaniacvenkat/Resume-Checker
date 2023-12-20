@@ -1,8 +1,8 @@
 # resumeChecker
 The "Resume Optimizer" Chrome extension is a tool designed to assist users in optimizing their resumes before applying for jobs on various online job portals. The extension provides features for uploading resumes, extracting text content, and offering suggestions to enhance the resume's effectiveness.
 # Key Features:
-![alt text]([http://url/to/img.png](https://github.com/insomaniacvenkat/Resume-Checker/blob/master/images/negative%20ats.png))
-![alt text]([http://url/to/img.png](https://github.com/insomaniacvenkat/Resume-Checker/blob/master/images/positive%20ats.png))
+https://github.com/insomaniacvenkat/Resume-Checker/blob/master/images/negative%20ats.png
+https://github.com/insomaniacvenkat/Resume-Checker/blob/master/images/positive%20ats.png
 Upload and Extract: Users can upload resume files in different formats, including plain text (.txt) and Microsoft Word documents (.doc, .docx). The extension intelligently extracts text content from the uploaded files.
 
 # Keyword Suggestions: The extension analyzes the resume content and provides keyword suggestions. These suggestions aim to enhance the visibility of the resume by incorporating relevant terms frequently used in job descriptions.
