@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Resume Checker",
+  "version": "1.0",
+  "description": "A Chrome extension to optimize resumes",
+  "permissions": ["storage", "activeTab"],
+  "browser_action": {
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon32.png",
+      "128": "images/icon96.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon32.png",
+    "128": "images/icon96.png"
+  }
+}

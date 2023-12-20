@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume Checker</title>
+  <link rel="stylesheet" type="text/css" href="popup.css">
+  <!-- Include mammoth.js script -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.0.1/mammoth.browser.min.js"></script>
+  <!-- Include popup.js script -->
+  <script src="popup.js"></script>
+</head>
+<body>
+  <div id="resumeInput">
+    <input type="file" id="resumeFile" accept=".txt, .doc, .docx">
+    <button id="uploadButton">Upload</button>
+    <textarea id="resumeText" placeholder="Or paste your resume here"></textarea>
+    <button id="optimizeButton">Optimize</button>
+  </div>
+  <div id="result"></div>
+</body>
+</html>
